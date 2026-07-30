@@ -1,8 +1,29 @@
 aid: mismar
 name: MisMar
-description: MisMar is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  MisMar (مسمار) is a Saudi Arabian automotive maintenance and repair platform
+  that connects vehicle owners with certified service centers. It runs a
+  consumer mobile app (B2C) alongside a Network-as-a-Service (NaaS) platform and
+  Workshop Management System (WMS) that digitize fleet management, order
+  processing, and workshop operations for business (B2B), government (B2G), and
+  insurance partners. Services span fault diagnostics, accident restoration, oil
+  and battery and tire changes, periodic maintenance, car wash, and protective
+  treatments across 45+ Saudi cities, with at-home or center-based delivery and
+  warranty coverage. MisMar is a portfolio company of 500 Global. No public
+  developer API, OpenAPI, or SDK surface is currently published.
 url: https://raw.githubusercontent.com/api-evangelist/mismar/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://mismarapp.b-cdn.net/wp-content/uploads/2026/03/app21211-e1774522932496.webp
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Automotive
+- Car Maintenance
+- Vehicle Repair
+- Fleet Management
+- Workshop Management
+- Mobile App
+- Saudi Arabia
+- Insurance
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -21,5 +50,22 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/mismar-domain-security.yml
 - type: Website
   url: https://mismarapp.com
+- type: Blog
+  url: https://mismarapp.com/blog/
+- type: BlogRSS
+  url: https://mismarapp.com/blog/feed/
+- type: Support
+  url: https://mismarapp.com/contact-us/
+- type: HelpCenter
+  url: https://mismarapp.com/faqs/
+- type: LLMsTxt
+  url: llms/mismar-llms.txt
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1
