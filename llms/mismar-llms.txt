@@ -1,0 +1,34 @@
+# MisMar
+
+> MisMar (مسمار) is a Saudi Arabian automotive maintenance and repair platform that connects vehicle owners with certified service centers. It operates a consumer mobile app (B2C) alongside a Network-as-a-Service (NaaS) platform and Workshop Management System (WMS) serving fleets (B2B) and government (B2G). MisMar is a portfolio company of 500 Global. No public developer API, OpenAPI, or SDK surface is currently published.
+
+## About
+- Industry: Automotive aftermarket / mobile car maintenance and repair
+- Segments: B2C (car owners), B2B (fleets), B2G (government), Insurance
+- Coverage: 45+ Saudi cities; at-home or center-based service
+- Products: fault diagnostics, accident restoration, oil/battery/tire services, periodic maintenance, car wash, protective treatments; Gold warranty up to 5 years
+- Backed by: 500 Global
+
+## Web
+- Website: https://mismarapp.com
+- B2B / Companies: https://mismarapp.com/b2b/
+- Insurance: https://mismarapp.com/insurance/
+- Service Providers (WMS): https://mismarapp.com/wms/
+- Individuals / Services: https://mismarapp.com/services/
+- Blog: https://mismarapp.com/blog/
+- FAQs: https://mismarapp.com/faqs/
+- Contact: https://mismarapp.com/contact-us/
+
+## Apps
+- Apple App Store: https://apps.apple.com/sa/app/mismar-%D9%85%D8%B3%D9%85%D8%A7%D8%B1/id1493302809
+- Google Play: https://play.google.com/store/apps/details?id=sa.com.carx
+- Universal link: https://onelink.to/mismar
+
+## Contact
+- Email: info@mismarapp.com
+- Phone: +966920033280
+- WhatsApp: https://api.whatsapp.com/send/?phone=966920035674
+
+## Notes for agents
+- MisMar publishes no public API, OpenAPI/Swagger, /.well-known discovery, or client SDKs at this time.
+- This profile is maintained in the API Evangelist network as a company record. See https://apis.io/ for catalog context.

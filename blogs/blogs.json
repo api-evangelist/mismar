@@ -1,0 +1,21 @@
+{
+  "repo": "mismar",
+  "feeds": [
+    {
+      "source": "https://mismarapp.com",
+      "feed_url": "https://mismarapp.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://mismarapp.com/blog/",
+      "feed_url": "https://mismarapp.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-25T15:00:33Z"
+}
