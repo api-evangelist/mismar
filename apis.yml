@@ -12,6 +12,17 @@ description: >-
   warranty coverage. MisMar is a portfolio company of 500 Global. No public
   developer API, OpenAPI, or SDK surface is currently published.
 url: https://raw.githubusercontent.com/api-evangelist/mismar/refs/heads/main/apis.yml
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
